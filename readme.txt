@@ -12,7 +12,7 @@ Set an image as the featured image at the same time as you insert it into the po
 
 Sick of adding a image to your post content then also setting it as the featured image in a separate action? Of course you are!
 
-This plugin solves this problem by adding a new button alongside to the "Insert into post" button in the media manager modal. When clicked, this button will insert your selected media and then, if you have selected an image, set that image as the post's featured image.
+This plugin solves this problem by adding a new button alongside the "Insert into post" button in the media manager modal. When clicked, this button will insert your selected media and then, if you have selected an image, set that image as the post's featured image.
 
 It is possible to select multiple media items to insert, so this plugin will set the last image in the selected set as the featured image.
 
@@ -29,6 +29,10 @@ Installing "Instant Featured Image" can be done either by searching for "Instant
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
+
+= Can I localise the text on the button? =
+
+Yes - the plugin includes a pot file to make this easy.
 
 = How can I contribute to this plugin? =
 
