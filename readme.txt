@@ -16,6 +16,8 @@ This plugin solves this problem by adding a new button alongside the "Insert int
 
 It is possible to select multiple media items to insert, so this plugin will set the last image in the selected set as the featured image.
 
+The button will appear in the media manager modal for all post types.
+
 Want to contribute? [Fork the GitHub repository](https://github.com/hlashbrooke/Instant-Featured-Image).
 
 Got some great ideas? [Post on the support forum](http://wordpress.org/support/plugin/instant-featured-image).
@@ -44,11 +46,19 @@ You can fork the GitHub repository [here](https://github.com/hlashbrooke/Instant
 
 == Changelog ==
 
+= 1.0.1 =
+* 2014-08-04
+* Fix - Making sure that button appears for all post types
+
 = 1.0 =
 * 2014-07-01
 * Initial release #boom
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* 2014-08-04
+* Fix - Making sure that button appears for all post types
 
 = 1.0 =
 * Initial release #boom
